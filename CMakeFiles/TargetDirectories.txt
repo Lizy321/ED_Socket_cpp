@@ -1,0 +1,2 @@
+/cpp-sdk-samples/opencv-webcam-demo/CMakeFiles/opencv-webcam-demo.dir
+/cpp-sdk-samples/video-demo/CMakeFiles/video-demo.dir
